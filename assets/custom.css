@@ -1,0 +1,104 @@
+.custom-button1 {
+    background-image: url('/assets/d1.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button2 {
+    background-image: url('/assets/d2.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button3 {
+    background-image: url('/assets/d3.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button4 {
+    background-image: url('/assets/d4.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button5 {
+    background-image: url('/assets/d5.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button6 {
+    background-image: url('/assets/d6.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button7 {
+    background-image: url('/assets/d7.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button8 {
+    background-image: url('/assets/d8.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+
+.custom-button9 {
+    background-image: url('/assets/d9.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button10 {
+    background-image: url('/assets/d10.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button11 {
+    background-image: url('/assets/d11.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button12 {
+    background-image: url('/assets/d12.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button13 {
+    background-image: url('/assets/d13.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button14 {
+    background-image: url('/assets/d14.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button15 {
+    background-image: url('/assets/d15.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+.custom-button16 {
+    background-image: url('/assets/d16.png');
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
+
+.custom-button-clicked {
+    background-color: grey;
+    background-size: cover;
+    width: 4cm;
+    height: 5cm;
+}
